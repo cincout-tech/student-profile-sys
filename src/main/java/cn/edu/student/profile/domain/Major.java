@@ -14,7 +14,7 @@ import java.io.Serializable;
  */
 
 @Entity
-@Table(name = "t_account")
+@Table(name = "t_major")
 
 @Data
 @AllArgsConstructor

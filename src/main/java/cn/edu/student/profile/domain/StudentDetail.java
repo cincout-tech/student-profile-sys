@@ -12,7 +12,7 @@ import javax.persistence.*;
  * @sine 1.8
  */
 @Entity
-@Table(name = "t_account")
+@Table(name = "t_student_detail")
 
 @Data
 @AllArgsConstructor
